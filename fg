@@ -1,0 +1,1 @@
+cf curl "<YOUR_API_ENDPOINT>/oauth/token" -X POST -d 'grant_type=password&client_id=cf&client_secret=&username=<USERNAME>&password=<PASSWORD>'
